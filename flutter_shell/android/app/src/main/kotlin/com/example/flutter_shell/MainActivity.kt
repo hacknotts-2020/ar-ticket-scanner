@@ -1,4 +1,4 @@
-package com.example.flutter_shell
+package com.magiccards.magiccards
 
 import io.flutter.embedding.android.FlutterActivity
 

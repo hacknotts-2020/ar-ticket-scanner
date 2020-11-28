@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "840836434661",
+    "firebase_url": "https://ar-ticket-scanner.firebaseio.com",
+    "project_id": "ar-ticket-scanner",
+    "storage_bucket": "ar-ticket-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840836434661:android:116b0967ac16f1e03b220c",
+        "android_client_info": {
+          "package_name": "com.magiccards.magiccards"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840836434661-m0839tefjufasnst3vjiigsksiqj5t9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magiccards.magiccards",
+            "certificate_hash": "ec8816b5d97b34d64d38fa1345881e7147cb0d5d"
+          }
+        },
+        {
+          "client_id": "840836434661-ovgld86ub6hjo70d350juruopeb1vb6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9kE2TEa9Gx4GD2eyd165gn-5i5XudNrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840836434661-ovgld86ub6hjo70d350juruopeb1vb6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
