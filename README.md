@@ -1,5 +1,5 @@
 # ar-ticket-scanner
-HackNots-2020 submission
+HackNots-2020 submission. Support for iOS and Android.
 
 ## Judges!
 - please go to DEMO and launch MagicCards_MacOS.app for macOs. Due to time constraints we were not able to create one for windows.
