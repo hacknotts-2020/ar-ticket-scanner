@@ -1,6 +1,11 @@
 # ar-ticket-scanner
 HackNots-2020 submission
 
+## Judges!
+- please go to DEMO and launch MagicCards_MacOS.app for macOs. Due to time constraints we were not able to create one for windows.
+
+
+
 ## AR
 https://developer.vuforia.com/
 
@@ -29,3 +34,10 @@ flutter run
 ## Firebase
 
 ## Database
+
+
+Note: Due to the limitations of flutter and react native for AR we decided to pivot on suday and code everything on unity.
+
+
+
+
