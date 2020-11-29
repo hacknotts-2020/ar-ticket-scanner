@@ -10,6 +10,8 @@ HackNots-2020 submission. Support for iOS and Android.
 https://developer.vuforia.com/
 
 ![](Assets/unity.png)
+![](Assets/game.png)
+
 
 ## Flutter
 setup:
