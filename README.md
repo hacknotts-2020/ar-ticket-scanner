@@ -1,4 +1,4 @@
-# ar-ticket-scanner
+# MagicCards
 HackNots-2020 submission and overall winner! 🏆
 
 [Devpost Page] (https://devpost.com/software/magic-cards)
